@@ -7,9 +7,7 @@ contact:
   email: aman.sharma.nine@gmail.com
   github: aman-sharma-nine
   linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  phone: +61 431858584
 
 languages:
   - idiom: English
@@ -24,10 +22,10 @@ education:
     university: Victoria University 
 
 skills:
-  - category: Backend
+  - category: Data Science
     skill: 
-      - Go
-      - Rust
+      - Problem formulation
+      - Python
   - category: Frontend
     skill:
       - React
@@ -39,11 +37,8 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  I am a full-stack data scientist with experience in building and deploying machine learning models for clients across industries. I have a special interest in solving high intellectual problems, design ROI framework, and develop the path to production. I have worked extensively on marketing, credit risk and consumer goods demand forecasting use cases. 
+  Interests include modeling on free-flowing text, interpretability, ml engineering, and reading philosophy ( Eastern & Western)
 
 # Experience
 experience:
