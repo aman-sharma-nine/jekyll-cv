@@ -5,7 +5,7 @@ fork: true
 # Sidebar
 contact:
   email: aman.sharma.nine@gmail.com
-  github: johndoe
+  github: aman-sharma-nine
   linkedin: johndoe
   phone: 
   gitlab: 
@@ -15,13 +15,13 @@ languages:
   - idiom: English
 
 education:
-  - degree: MSc in Informatics
+  - degree: Masters in Computer Science 
     time: 2014-2016
-    university: Ionian University
+    university: University of Technology Sydney
 
   - degree: BSc in Computer Science
     time: 2010-2014
-    university: Ionian University
+    university: Victoria University 
 
 skills:
   - category: Backend
